@@ -1,0 +1,28 @@
+{
+    "name": "pleonovich/DateEdit",
+    "description": "Simple way to edit date data.",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": [
+        "date",
+        "format"
+    ],
+    "homepage": "https://github.com/pleonovich/DateEdit",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Pavel Leonovich",
+            "email": "leonovich.pavel@gmail.com",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/pleonovich/DateEdit/issues"
+    },
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": ["DateEdit.class.php"]
+    }
+}
