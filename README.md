@@ -1,7 +1,7 @@
 # DateEdit
 Simple way to edit date data
 
-Key features
+## Key features
 <ul>
 <li>date validation;</li>
 <li>date format validation;</li>
@@ -10,7 +10,7 @@ Key features
 <li>easy change year, month, week, day or hour.</li>
 </ul>
 
-Some examples
+## Some examples
 ```php
 $valid = DateEdit::validate("2017.02.03","Y.m.d");
 $check = DateEdit::checkFormat("2017.02.03","Y.m.d");
