@@ -1,5 +1,5 @@
 {
-    "name": "pleonovich/DateEdit",
+    "name": "pleonovich/dateedit",
     "description": "Simple way to edit date data.",
     "type": "library",
     "version": "1.0.0",
@@ -7,7 +7,7 @@
         "date",
         "format"
     ],
-    "homepage": "https://github.com/pleonovich/DateEdit",
+    "homepage": "https://github.com/pleonovich/dateedit",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/pleonovich/DateEdit/issues"
+        "issues": "https://github.com/pleonovich/dateedit/issues"
     },
     "require": {
         "php": ">=5.0.0"
